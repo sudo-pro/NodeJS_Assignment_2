@@ -1,0 +1,21 @@
+table#user-list {
+  margin-top: 20px;
+  width: 400px;
+  font-size: 18px;
+  text-align: left;
+  background-color: #f0c095;
+}
+
+table#user-list th,
+table#user-list td {
+  padding: 12px 15px;
+  border: 1px solid #e96868;
+}
+
+table#user-list th {
+  background-color: #ff7547;
+}
+
+table#user-list tr:hover {
+  background-color: #ff8469;
+}
